@@ -1,2 +1,3 @@
 # projetoInicial
-Este projeto é inicial.
+
+Este projeto é inicial
